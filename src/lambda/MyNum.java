@@ -1,4 +1,4 @@
-	package day.twenty.twolambda;
+	package lambda;
 
 public interface MyNum {
 	double getValue();
