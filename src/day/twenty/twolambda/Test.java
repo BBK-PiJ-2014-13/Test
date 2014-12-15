@@ -1,4 +1,4 @@
-package lambda;
+package day.twenty.twolambda;
 
 public class Test {
 	public static void main(String args[]) {
